@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6483149071422355530
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7799729661231131252}
+  - component: {fileID: 5082499004948108121}
+  - component: {fileID: 7622635526479901243}
+  m_Layer: 0
+  m_Name: AudioHandler
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7799729661231131252
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6483149071422355530}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5082499004948108121
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6483149071422355530}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4c77c292c8f512438d505a182f1252b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: InterfaceClick
+    clip: {fileID: 8300000, guid: 180861b7559107f4c84beb62cca539f0, type: 3}
+    multipleClips: 0
+    mClips: []
+    volume: 1
+    pitch: 1
+    loop: 0
+    isMusic: 0
+    source: {fileID: 0}
+  - name: InterfaceBack
+    clip: {fileID: 8300000, guid: 0fd7063edcc5cc140b7f3770389d34a8, type: 3}
+    multipleClips: 0
+    mClips: []
+    volume: 1
+    pitch: 1
+    loop: 0
+    isMusic: 0
+    source: {fileID: 0}
+  - name: MenuTheme
+    clip: {fileID: 8300000, guid: 7708833174de16446bf8ec96039400bf, type: 3}
+    multipleClips: 0
+    mClips: []
+    volume: 0.6
+    pitch: 1
+    loop: 1
+    isMusic: 1
+    source: {fileID: 0}
+  - name: InGameTheme
+    clip: {fileID: 8300000, guid: b84076efb5013314ca055024854b3d42, type: 3}
+    multipleClips: 0
+    mClips: []
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    isMusic: 1
+    source: {fileID: 0}
+  - name: FootstepsGrass
+    clip: {fileID: 0}
+    multipleClips: 1
+    mClips:
+    - {fileID: 8300000, guid: c32bfb44becc08948961cec0af13008a, type: 3}
+    - {fileID: 8300000, guid: 7ec1ddcc5861d344791f5d85b458962e, type: 3}
+    - {fileID: 8300000, guid: d6a41b2afbc0cfa4ead1db2209011555, type: 3}
+    - {fileID: 8300000, guid: f6373e923f0f69e478116344ef8aa05b, type: 3}
+    - {fileID: 8300000, guid: 38ddee216ac2a37468ac82a351872d1b, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    isMusic: 0
+    source: {fileID: 0}
+  - name: EquipItem
+    clip: {fileID: 8300000, guid: 51acd5655b57f36479daccf24175c8bb, type: 3}
+    multipleClips: 0
+    mClips: []
+    volume: 1
+    pitch: 1
+    loop: 0
+    isMusic: 0
+    source: {fileID: 0}
+  - name: UnequipItem
+    clip: {fileID: 8300000, guid: bb01e05d19acf1a48907a9fb5fed77fd, type: 3}
+    multipleClips: 0
+    mClips: []
+    volume: 1
+    pitch: 1
+    loop: 0
+    isMusic: 0
+    source: {fileID: 0}
+  - name: TakeDamage
+    clip: {fileID: 8300000, guid: 214dfb2082bb8ee41a68e60fc51df9de, type: 3}
+    multipleClips: 0
+    mClips: []
+    volume: 1
+    pitch: 1
+    loop: 0
+    isMusic: 0
+    source: {fileID: 0}
+  - name: LootChest
+    clip: {fileID: 8300000, guid: a2c743aa16b064047a5ec65c92dd328c, type: 3}
+    multipleClips: 0
+    mClips: []
+    volume: 1
+    pitch: 1
+    loop: 0
+    isMusic: 0
+    source: {fileID: 0}
+--- !u!114 &7622635526479901243
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6483149071422355530}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf385c1017c262b49b32183dee5546f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  menuSong: MenuTheme
+  roamSong: InGameTheme
+  menuSceneID: 2
+  firstGridSceneID: 10

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Chest
+  - Enemy
+  - Ground
+  - PatrolPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Player
+  - Enemy
+  - Ground
+  - Chest
+  - Object
+  - PatrolPoint
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 539216245
+    locked: 0
+  - name: ObjectsBackground
+    uniqueID: 1985939721
+    locked: 0
+  - name: Players
+    uniqueID: 3173170121
+    locked: 0
+  - name: ObjectsForground
+    uniqueID: 4049490147
+    locked: 0
+  - name: CombatGrid
+    uniqueID: 1094022495
+    locked: 0
+  - name: UI
+    uniqueID: 1059591373
+    locked: 0

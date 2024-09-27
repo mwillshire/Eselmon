@@ -1,0 +1,163 @@
+Asset: Free Topdown Fantasy - Forest - Pixelart Tileset
+Asset Type: 2D Art
+Author: aamatniekss
+License: Used in both free and commercial projects
+Cost: Free
+Download Date: 05/01/2023 
+Download Time: 10:27
+Link: https://aamatniekss.itch.io/topdown-fantasy-forest
+
+Asset: RPG Worlds Houses And Interiors
+Asset Type: 2D Art
+Author: Szadi art.
+License: Used in Public Domain and free to use, personal or commercial
+Cost: Free
+Download Date: 05/01/2023 
+Download Time: 10:47
+Link: n/a
+
+Asset: RPG Worlds Caves
+Asset Type: 2D Art
+Author: Szadi art.
+License: Used in Public Domain and free to use, personal or commercial
+Cost: Free
+Download Date: 05/01/2023 
+Download Time: 10:47
+Link: https://szadiart.itch.io/rpg-worlds-ca
+
+Asset: Rogue Fantasy Catacombs
+Asset Type: 2D Art
+Author: Szadi art.
+License: Used in Public Domain and free to use, personal or commercial
+Cost: Free
+Download Date: 05/01/2023 
+Download Time: 10:48
+Link: https://szadiart.itch.io/rpg-worlds-ca
+
+Asset: Houses Pack
+Asset Type: 2D Art
+Author: Szadi art.
+License: Used in Public Domain and free to use, personal or commercial
+Cost: Free
+Download Date: 05/01/2023 
+Download Time: 10:49
+Link: https://szadiart.itch.io/houses-pack
+
+Asset: Free NPC mage
+Asset Type: 2D Enemy Art
+Author: CreativeKind
+License: Used in commercial or non-commercial
+Cost: Free
+Download Date: 05/01/2023 
+Download Time: 10:55
+Link: https://creativekind.itch.io/npc-mage-free
+
+Asset: Free 16x16 Assorted RPG Icons
+Asset Type: 2D Art
+Author: Shade
+License: Used in commercial or non-commercial games
+Cost: Free
+Download Date: 05/01/2023 
+Download Time: 10:50
+Link: https://merchant-shade.itch.io/16x16-mixed-rpg-icons
+
+Asset: Free 16x16 Weapon RPG Icons
+Asset Type: 2D Art
+Author: Shade
+License: Used in commercial or non-commercial games
+Cost: Free
+Download Date: 05/01/2023 
+Download Time: 10:50
+Link: https://merchant-shade.itch.io/free-16x16-weapon-rpg-icons
+
+Asset: Winter Village - Assets [Free]
+Asset Type: 2D Art
+Author: PIXELJAD
+License: Used in both free and commercial projects
+Cost: Free
+Download Date: 05/01/2023 
+Download Time: 10:49
+Link: https://pixeljad.itch.io/wintervillage
+
+Asset: RPG Main Character
+Asset Type: 2D Character Animation and Art
+Author: Szadi
+License: Used in Public Domain and free to use, personal or commercial
+Cost: Free
+Download Date: 05/18/2024
+Download Time: 11:46
+Link: https://szadiart.itch.io/rpg-main-character
+
+Asset: Tiny RPG Character Asset Pack v1.02 Free Version
+Asset Type: 2D Top Down Character Animations and Art
+Author: Zerie
+License: "You can use this asset for personal and commercial purpose" -Zerie
+Cost: Free
+Download Date: 05/18/2024
+Download Time: 12:42
+Link: https://zerie.itch.io/tiny-rpg-character-asset-pack
+
+Asset: Read CSV File Script
+Asset Type: Script
+Author: Meta Gang
+License: Standard Youtube License
+Cost: Free
+Download Date: 05/22/24
+Download Time: 14:05
+Link: https://www.youtube.com/watch?v=xwnL4meq-j8
+
+Asset: Create a grid in Unity
+Asset Type: Script
+Author: Tarodev
+License: Standard Youtube License
+Cost: Free
+Download Date: 06/05/2024
+Download Time: 10:15
+Link: https://www.youtube.com/watch?v=kkAjpQAM-jE&t=61s
+
+Asset: Battle Music Stage 1
+Asset Type: Music
+Author: Apenguin73
+License:  Royalty Free, Creative Commons 4.0 (CC BY 4.0)
+Cost: Free
+Download Date: 06/23/2024
+Download Time: 15:09
+Link: https://apenguin73.itch.io/battle-theme-stage-1
+
+Asset: Menders Heartbeat Song
+Asset Type: Music
+Author: Urban Brometheus
+License:  "Feel Free to use this track for free or commercial use." Just credit author
+Cost: Free
+Download Date: 06/23/2024
+Download Time: 15:11
+Link: https://theartbros.itch.io/menders-heartbeat-song
+
+Asset: Impact Sounds
+Asset Type: Audio
+Author: Kenney
+License: Creative Commons CC0
+Cost: Free
+Download Date: 06/23/2024
+Download Time: 15:27
+Link: https://kenney.nl/assets/impact-sounds
+
+Asset: Interface Sounds
+Asset Type: Audio
+Author: Kenney
+License: Creative Commons CC0
+Cost: Free
+Download Date: 06/23/2024
+Download Time: 15:28
+Link: https://kenney.nl/assets/interface-sounds
+
+Asset: RPG Audio
+Asset Type: Audio
+Author: Kenney
+License: Creative Commons CC0
+Cost: Free
+Download Date: 06/23/2024
+Download Time: 15:28
+Link: https://kenney.nl/assets/rpg-audio
+
+

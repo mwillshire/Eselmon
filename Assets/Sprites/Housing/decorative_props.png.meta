@@ -1,0 +1,1564 @@
+fileFormatVersion: 2
+guid: 2dfc260256b150b4d9797ae81a45208c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4028231100219441733
+    second: decorative_props_0
+  - first:
+      213: -3434129433948509968
+    second: decorative_props_1
+  - first:
+      213: 3901523939930906030
+    second: decorative_props_2
+  - first:
+      213: -9214182926208943745
+    second: decorative_props_3
+  - first:
+      213: -7027982850383821543
+    second: decorative_props_4
+  - first:
+      213: 7248653097212702750
+    second: decorative_props_5
+  - first:
+      213: -2685392978934875814
+    second: decorative_props_6
+  - first:
+      213: -4161397440855920115
+    second: decorative_props_7
+  - first:
+      213: 8087999861268856161
+    second: decorative_props_8
+  - first:
+      213: 3988648210583538977
+    second: decorative_props_9
+  - first:
+      213: 7825207606025153891
+    second: decorative_props_10
+  - first:
+      213: -734726234388403165
+    second: decorative_props_11
+  - first:
+      213: -8084039896554768750
+    second: decorative_props_12
+  - first:
+      213: -4918996166978469355
+    second: decorative_props_13
+  - first:
+      213: 4185220545961213810
+    second: decorative_props_14
+  - first:
+      213: 1300347726681727058
+    second: decorative_props_15
+  - first:
+      213: 2378912961218152301
+    second: decorative_props_16
+  - first:
+      213: 23964417828776799
+    second: decorative_props_17
+  - first:
+      213: -2765518219922705116
+    second: decorative_props_18
+  - first:
+      213: -2560680560532042058
+    second: decorative_props_19
+  - first:
+      213: 5205542430158026823
+    second: decorative_props_20
+  - first:
+      213: -4965598625093620705
+    second: decorative_props_21
+  - first:
+      213: 2053113619139583294
+    second: decorative_props_22
+  - first:
+      213: -16993695087110111
+    second: decorative_props_23
+  - first:
+      213: 2665599452249625223
+    second: decorative_props_24
+  - first:
+      213: -4934473219586607067
+    second: decorative_props_25
+  - first:
+      213: 6948385377274914986
+    second: decorative_props_26
+  - first:
+      213: -6951420426036479067
+    second: decorative_props_27
+  - first:
+      213: -1605069133019481566
+    second: decorative_props_28
+  - first:
+      213: 6929415761354185740
+    second: decorative_props_29
+  - first:
+      213: 3829183987695300025
+    second: decorative_props_30
+  - first:
+      213: -2921824946109353673
+    second: decorative_props_31
+  - first:
+      213: -3556226290892172191
+    second: decorative_props_32
+  - first:
+      213: 2711695617119107336
+    second: decorative_props_33
+  - first:
+      213: -9042086861458549012
+    second: decorative_props_34
+  - first:
+      213: 6081700667118011880
+    second: decorative_props_35
+  - first:
+      213: -5994144206767404282
+    second: decorative_props_36
+  - first:
+      213: -4159454946855893122
+    second: decorative_props_37
+  - first:
+      213: -5849087861911231052
+    second: decorative_props_38
+  - first:
+      213: 5748456228243491275
+    second: decorative_props_39
+  - first:
+      213: -1079008843955646157
+    second: decorative_props_40
+  - first:
+      213: -1859649348697948587
+    second: decorative_props_41
+  - first:
+      213: 6985017230216224757
+    second: decorative_props_42
+  - first:
+      213: 6234386295041308304
+    second: decorative_props_43
+  - first:
+      213: -4944953647658458096
+    second: decorative_props_44
+  - first:
+      213: 368610584720161819
+    second: decorative_props_45
+  - first:
+      213: -8525817469018211479
+    second: decorative_props_46
+  - first:
+      213: -4607052319647423946
+    second: decorative_props_47
+  - first:
+      213: -137426096785596047
+    second: decorative_props_48
+  - first:
+      213: -7027503116328251169
+    second: decorative_props_49
+  - first:
+      213: -750246062501197299
+    second: decorative_props_50
+  - first:
+      213: 7786913176811858748
+    second: decorative_props_51
+  - first:
+      213: 5199631508323728016
+    second: decorative_props_52
+  - first:
+      213: 7960641974260659731
+    second: decorative_props_53
+  - first:
+      213: -8441482468752124649
+    second: decorative_props_54
+  - first:
+      213: 1790260422883046622
+    second: decorative_props_55
+  - first:
+      213: 674171947348774960
+    second: decorative_props_56
+  - first:
+      213: -2729776948062861771
+    second: decorative_props_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Logs1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 453
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542c2c9d7d627e730800000000000000
+      internalID: 4028231100219441733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logs2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 453
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f829c089758750d0800000000000000
+      internalID: -3434129433948509968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logs3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 453
+        width: 81
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead934a2a5ff42630800000000000000
+      internalID: 3901523939930906030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logs4
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 418
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79b8db8275a02080800000000000000
+      internalID: -9214182926208943745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logs5
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 418
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915c55b55d6977e90800000000000000
+      internalID: -7027982850383821543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logs6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 352
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10f56f3693689460800000000000000
+      internalID: 7248653097212702750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logs7
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 352
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59324040519bbad0800000000000000
+      internalID: -2685392978934875814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logs8
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 362
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d023098531fbf36c0800000000000000
+      internalID: -4161397440855920115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logs9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 358
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16db65295095e3070800000000000000
+      internalID: 8087999861268856161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logs10
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 362
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d44dd2a668a5730800000000000000
+      internalID: 3988648210583538977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logs11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 362
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d60d2abd8b89c60800000000000000
+      internalID: 7825207606025153891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logs12
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 356
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c6e10f16abdc5f0800000000000000
+      internalID: -734726234388403165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 302
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29674cf8b88bfcf80800000000000000
+      internalID: -8084039896554768750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrindingStone1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 302
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5128dbf4c073cbbb0800000000000000
+      internalID: -4918996166978469355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrindingStone2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 302
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f3fac89e3e41a30800000000000000
+      internalID: 4185220545961213810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anvil1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 305
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250e95d2e53cb0210800000000000000
+      internalID: 1300347726681727058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anvil2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 305
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d670bf4fbb8930120800000000000000
+      internalID: 2378912961218152301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeStump1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 299
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5beee3d283255000800000000000000
+      internalID: 23964417828776799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeStump4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 298
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425f2a1d4d7ee99d0800000000000000
+      internalID: -2765518219922705116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeStump5
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 298
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be4d36e892a67cd0800000000000000
+      internalID: -2560680560532042058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 255
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748fac4924dcd3840800000000000000
+      internalID: 5205542430158026823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bags1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 261
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c602efb56a61bb0800000000000000
+      internalID: -4965598625093620705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bags2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 257
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dd45075ff1e7c10800000000000000
+      internalID: 2053113619139583294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bags3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 269
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12859e80350a3cff0800000000000000
+      internalID: -16993695087110111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bags4
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 268
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78290d0349c1ef420800000000000000
+      internalID: 2665599452249625223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helmet1
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 262
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528bcd030ca358bb0800000000000000
+      internalID: -4934473219586607067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helmet2
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 263
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa86dfebfaf9d6060800000000000000
+      internalID: 6948385377274914986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helmet3
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 262
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab73b5e3f7978f90800000000000000
+      internalID: -6951420426036479067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate_Shard3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 203
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22afd66a026a9b9e0800000000000000
+      internalID: -1605069133019481566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate_Food6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 240
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c528cdbea3a2060800000000000000
+      internalID: 6929415761354185740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate_Food7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 240
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd21368c8ef32530800000000000000
+      internalID: 3829183987695300025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate_Food8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 240
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731f64721b79377d0800000000000000
+      internalID: -2921824946109353673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate_Food9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 240
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1649776b70fb5aec0800000000000000
+      internalID: -3556226290892172191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 225
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8093e5debc0e1a520800000000000000
+      internalID: 2711695617119107336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield2
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 229
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6598218ed048280800000000000000
+      internalID: -9042086861458549012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate_Log
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 195
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e543d5d88a866450800000000000000
+      internalID: 6081700667118011880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate_Shard1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 195
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bc92f2a9580dca0800000000000000
+      internalID: -5994144206767404282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate_Shard4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 191
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77c96973c5a646c0800000000000000
+      internalID: -4159454946855893122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate_Bags
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 199
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b56bb2549dd3dea0800000000000000
+      internalID: -5849087861911231052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate_Food4
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 199
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9c553ab7e96cf40800000000000000
+      internalID: 5748456228243491275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate_Food5
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 198
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331d48a5c279601f0800000000000000
+      internalID: -1079008843955646157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate_Shield
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 165
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e721c25c23136e0800000000000000
+      internalID: -1859649348697948587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate_Shard2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 129
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff5505a924cfe060800000000000000
+      internalID: 6985017230216224757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate_Empty2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 159
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096308cdd4df48650800000000000000
+      internalID: 6234386295041308304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate_Empty3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 143
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014ab806bdeff5bb0800000000000000
+      internalID: -4944953647658458096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate_Food1
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 163
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cb1b2bf519d1500800000000000000
+      internalID: 368610584720161819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate_Food2
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 164
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b79530f263ea980800000000000000
+      internalID: -8525817469018211479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate_Food3
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 161
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632a6c113567010c0800000000000000
+      internalID: -4607052319647423946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate_Empty1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 106
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171e93e61b3c71ef0800000000000000
+      internalID: -137426096785596047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate_Shard5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 107
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0dd45262b497e90800000000000000
+      internalID: -7027503116328251169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate_Empty4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 99
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a0b7e5e279695f0800000000000000
+      internalID: -750246062501197299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate_Empty5
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 100
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3beda8074ca01c60800000000000000
+      internalID: 7786913176811858748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Well1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 31
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a7098de4dc82840800000000000000
+      internalID: 5199631508323728016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Well2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 31
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316fed3c2b1e97e60800000000000000
+      internalID: 7960641974260659731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bramble1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 20
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71597586b64d9da80800000000000000
+      internalID: -8441482468752124649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bramble2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 20
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed472619e5848d810800000000000000
+      internalID: 1790260422883046622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeStump2
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 31
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030d14f60d32b5900800000000000000
+      internalID: 674171947348774960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeStump3
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 31
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536c9a62452ed1ad0800000000000000
+      internalID: -2729776948062861771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f433029b4da01ec468543ea00a375ddb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Anvil1: 1300347726681727058
+      Anvil2: 2378912961218152301
+      Bags1: -4965598625093620705
+      Bags2: 2053113619139583294
+      Bags3: -16993695087110111
+      Bags4: 2665599452249625223
+      Barrel: -8084039896554768750
+      Bramble1: -8441482468752124649
+      Bramble2: 1790260422883046622
+      Crate_Bags: -5849087861911231052
+      Crate_Empty1: -137426096785596047
+      Crate_Empty2: 6234386295041308304
+      Crate_Empty3: -4944953647658458096
+      Crate_Empty4: -750246062501197299
+      Crate_Empty5: 7786913176811858748
+      Crate_Food1: 368610584720161819
+      Crate_Food2: -8525817469018211479
+      Crate_Food3: -4607052319647423946
+      Crate_Food4: 5748456228243491275
+      Crate_Food5: -1079008843955646157
+      Crate_Food6: 6929415761354185740
+      Crate_Food7: 3829183987695300025
+      Crate_Food8: -2921824946109353673
+      Crate_Food9: -3556226290892172191
+      Crate_Log: 6081700667118011880
+      Crate_Shard1: -5994144206767404282
+      Crate_Shard2: 6985017230216224757
+      Crate_Shard3: -1605069133019481566
+      Crate_Shard4: -4159454946855893122
+      Crate_Shard5: -7027503116328251169
+      Crate_Shield: -1859649348697948587
+      GrindingStone1: -4918996166978469355
+      GrindingStone2: 4185220545961213810
+      Helmet1: -4934473219586607067
+      Helmet2: 6948385377274914986
+      Helmet3: -6951420426036479067
+      Logs1: 4028231100219441733
+      Logs10: 3988648210583538977
+      Logs11: 7825207606025153891
+      Logs12: -734726234388403165
+      Logs2: -3434129433948509968
+      Logs3: 3901523939930906030
+      Logs4: -9214182926208943745
+      Logs5: -7027982850383821543
+      Logs6: 7248653097212702750
+      Logs7: -2685392978934875814
+      Logs8: -4161397440855920115
+      Logs9: 8087999861268856161
+      Shield1: 2711695617119107336
+      Shield2: -9042086861458549012
+      Sign: 5205542430158026823
+      TreeStump1: 23964417828776799
+      TreeStump2: 674171947348774960
+      TreeStump3: -2729776948062861771
+      TreeStump4: -2765518219922705116
+      TreeStump5: -2560680560532042058
+      Well1: 5199631508323728016
+      Well2: 7960641974260659731
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
