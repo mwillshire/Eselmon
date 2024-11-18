@@ -6,5 +6,5 @@
 # My goal with each game I make is to make a game that I have not made before. That way I make new scripts that I can use in later games.
 # Expanding my script library and makes future games earlier.
 # For example, I have a menu system for level based games.
-# A prototype inventory system not finilized in this game.
+# A prototype inventory system not finalized in this game.
 # A menu system for rpg and other save file games, still needs the final pieces.
